@@ -3,6 +3,9 @@
 ## What Is Mercury?
 Mercury is a simple, secure app where people can lend and borrow money directly from each other, like posting loan offers on a community bulletin board. Imagine X saying, “I’ll lend $100 at 10% interest for 30 days,” and Y picking it from a public list. The app uses blockchain to manage everything automatically, like a robot bank teller, ensuring no one can cheat. It’s built using digital dollars (not risky cryptocurrencies) to comply with laws, with a clear interface, user-set loan terms, and a ratings system to show who’s trustworthy.
 
+<img width="1272" height="928" alt="image" src="https://github.com/user-attachments/assets/224e7340-143d-46c0-a968-cd44dee95689" />
+
+
 **Why**: Unlike traditional banks, Mercury would let users set their own terms (e.g., high interest like 100% if they want), shows all deals publicly, and cuts out middlemen, saving time and money. It’s like a digital lending club built to be fair and transparent.
 
 **Analogy**: Think of it as a lemonade stand where X offers $100 worth of lemonade, sets his price (interest), and a robot (smart contract) ensures Y pays back $110 later. Everything’s written on a public sign (blockchain) so everyone trusts the process.
