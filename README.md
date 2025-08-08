@@ -27,4 +27,4 @@ Here’s how this would ideally work:
 3. **Accept Loan**: Button to agree to terms, moving funds to borrower.
 4. **Repay Loan**: Button to repay (e.g., “$110”), auto-handled by smart contract.
 5. **Ratings**: +0.1 points per completed loan, shown in listing.
-6. **Transparency**: All details public on TON testnet explorer.
+6. **Transparency**: All details public on TON testnet explorer. (future update, using testnet now)
